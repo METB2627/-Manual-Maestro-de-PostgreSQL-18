@@ -1,5 +1,3 @@
-🐘 Manual Maestro de PostgreSQL 18
-
 # 🐘 Manual Maestro de PostgreSQL 18
 ### De cero absoluto a tu primera base de datos respaldada, segura y optimizada
 
